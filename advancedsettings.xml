@@ -1,0 +1,9 @@
+<!--- /private/var/mobile/Library/Preferences/XBMC/userdata/ --->
+<!--- All three options enabled, using local hard drive for cache. --->
+<advancedsettings>
+  <network>
+    <buffermode>1</buffermode>
+    <cachemembuffersize>0</cachemembuffersize>
+    <readbufferfactor>4.0</readbufferfactor>
+  </network>
+</advancedsettings>
